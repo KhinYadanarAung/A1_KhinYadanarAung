@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-Shop</string>
+    <string name="setting">Setting</string>
+    <string name="changeColor">Change Your Background Color</string>
+    <string name="btnRed">Red</string>
+    <string name="btnGreen">Green</string>
+    <string name="btnBule">Blue</string>
+    <string name="btnPurple">Purple</string>
+</resources>
